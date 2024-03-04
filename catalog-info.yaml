@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo
+  title: demo
+  description: testing
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: user:default/kqd14687
